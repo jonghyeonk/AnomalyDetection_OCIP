@@ -1,0 +1,9 @@
+pandas==2.2.3
+numpy==1.24.3
+lxml==4.9.1
+networkx==2.8.4
+pm4py==2.2.32
+jsonschema==4.16.0
+cvxopt==1.2.6
+scikit-learn==1.6.1
+scipy==1.13.1
