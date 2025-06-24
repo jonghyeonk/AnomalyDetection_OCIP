@@ -1,6 +1,6 @@
 # Object-Centric Event-Data Imperfection Patterns
 
-This repository contains the official implementation and datasets for the paper: "Object-Centric Event-Data Imperfection Patterns". We propose and implement several automated detection techniques for Object-Centric Event Data (OCED) imperfection patterns.
+This repository contains the official implementation and datasets for the paper: "Object-Centric Event-Data Imperfection Patterns" (under review). We propose and implement several automated detection techniques for Object-Centric Event Data (OCED) imperfection patterns.
 
 ## ✨ Implemented Detection Patterns (how-to run it? just implement "test_anomaly_detection.ipynb" file)
 
