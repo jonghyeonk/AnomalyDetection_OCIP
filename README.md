@@ -1,6 +1,6 @@
 # Object-Centric Event-Data Imperfection Patterns
 
-This repository contains the official implementation and datasets for the paper: "Object-Centric Event-Data Imperfection Patterns" (under review). 
+This repository contains the official implementation and datasets for the paper: "Object-Centric Event-Data Imperfection Patterns" .
 
 We propose and implement several automated detection techniques for Object-Centric Event Data (OCED) imperfection patterns.
 
